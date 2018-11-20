@@ -1,2 +1,2 @@
 # Zynq_Processor
-Implement a dividor without '/' built in verilog
+try to using C to control zynq_processor and to implement hash function & parity bit . 
